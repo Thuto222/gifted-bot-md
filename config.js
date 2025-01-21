@@ -71,7 +71,7 @@ module.exports = {
   botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
   ownername:process.env.OWNER_NAME|| "It's GiftedTech",
 
-  sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
+  sessionName:process.env.SESSION_ID || "Gifted~HiA1kIKY#kS9NsUDwkjthopIOA6xcKpyZ6_d4GX6lpaBe9Enw3OU",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
 
